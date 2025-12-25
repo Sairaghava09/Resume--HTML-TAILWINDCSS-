@@ -25,7 +25,7 @@ It allows you to showcase your skills, education, experience, and contact inform
 ---
 
 ## Project Structure
-.
+.                                                                                                
 ├── src/                                                         
 │ ├── index.html # Main resume page                                                              
 │ └── assets/ # Images, icons, or other media                                                    
