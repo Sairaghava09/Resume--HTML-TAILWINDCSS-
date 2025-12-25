@@ -27,12 +27,12 @@ It allows you to showcase your skills, education, experience, and contact inform
 ## Project Structure
 .
 ├── src/                                                         
-│ ├── index.html # Main resume page                                    
-│ └── assets/ # Images, icons, or other media                     
-├── README.md # This file                                 
-├── package.json # Project config (if using Tailwind build scripts)
-├── tailwind.config.js # Tailwind CSS config
-└── .gitignore
+│ ├── index.html # Main resume page                                                              
+│ └── assets/ # Images, icons, or other media                                                    
+├── README.md # This file                                                                        
+├── package.json # Project config (if using Tailwind build scripts)                              
+├── tailwind.config.js # Tailwind CSS config                                                     
+└── .gitignore                                                                                   
 
 ---
 
